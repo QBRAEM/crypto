@@ -130,4 +130,5 @@ dmypy.json
 
 # Other
 *.zip
+*.pkl
 g-research-crypto-forecasting/
