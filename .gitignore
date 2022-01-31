@@ -132,3 +132,4 @@ dmypy.json
 *.zip
 *.pkl
 g-research-crypto-forecasting/
+catboost_info/
